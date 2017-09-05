@@ -1,0 +1,67 @@
+body {
+    font-family: 'Vollkorn', serif;
+    font-size: 19px;
+}
+
+p {
+    margin-bottom: 1.2rem;
+}
+
+.footer,
+.navbar {
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    color: #5d6772;
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: #282c31;
+    text-decoration: underline;
+}
+
+.footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 1.8em;
+}
+
+.footer a {
+    color: #ccc;
+}
+
+.footer a:hover,
+.footer a:focus,
+.footer a:active {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.main-container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h1.header {
+    line-height: 1.4;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 19px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 1.5;
+}
+
+.footer {
+    color: #fff;
+}
+
+.td-label {
+    width: 40%;
+}
