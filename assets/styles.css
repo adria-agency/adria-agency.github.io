@@ -51,8 +51,16 @@ h1.header {
 }
 
 h2 {
-    font-size: 19px;
-    font-weight: 700;
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 1.5;
+}
+
+h3 {
+    font-size: 1.0rem;
+    font-weight: 600;
     margin-top: 0;
     margin-bottom: 0;
     line-height: 1.5;
